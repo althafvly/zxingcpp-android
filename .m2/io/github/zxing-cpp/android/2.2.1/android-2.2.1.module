@@ -3,7 +3,7 @@
   "component": {
     "group": "io.github.zxing-cpp",
     "module": "android",
-    "version": "2.2.0",
+    "version": "2.2.1",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -32,13 +32,13 @@
       ],
       "files": [
         {
-          "name": "android-2.2.0.aar",
-          "url": "android-2.2.0.aar",
-          "size": 2623709,
-          "sha512": "242c85620860e8e03ab603940bd0d7886b8edd975d0198c8975fa33ac6fd2ece421dbc92ecf04ea3ea3600a492e5de44ba7a49bc94c3da16afe0ad9a0312e30e",
-          "sha256": "d3d6646183680ab0112cfd816aad9da18071bb1b1b8c0e2cf57897b006cb4a68",
-          "sha1": "353286421362ecc4eb16425a94329bbf62ac6e57",
-          "md5": "88d9cbe955a8e18f8b3e9725c076b68b"
+          "name": "android-2.2.1.aar",
+          "url": "android-2.2.1.aar",
+          "size": 2623786,
+          "sha512": "f6fd7a3484ae5b2eda43a3cc3b8ab8707496d6178cacd3087ae0d6a9ecb548799924b8d90f35e945c3bd39e27faf1021612bd5483bdc8f95e2c36e2f664f6e68",
+          "sha256": "9d5de30d869cce1c6febbeca3adcde40637d77e61fb0ae5060b35ccb3268e1d7",
+          "sha1": "a4a30dc6177fccf04ba20ae4057597e5105c0b62",
+          "md5": "cf23e3875455d25ca727147eefb7f00b"
         }
       ]
     },
@@ -67,13 +67,13 @@
       ],
       "files": [
         {
-          "name": "android-2.2.0.aar",
-          "url": "android-2.2.0.aar",
-          "size": 2623709,
-          "sha512": "242c85620860e8e03ab603940bd0d7886b8edd975d0198c8975fa33ac6fd2ece421dbc92ecf04ea3ea3600a492e5de44ba7a49bc94c3da16afe0ad9a0312e30e",
-          "sha256": "d3d6646183680ab0112cfd816aad9da18071bb1b1b8c0e2cf57897b006cb4a68",
-          "sha1": "353286421362ecc4eb16425a94329bbf62ac6e57",
-          "md5": "88d9cbe955a8e18f8b3e9725c076b68b"
+          "name": "android-2.2.1.aar",
+          "url": "android-2.2.1.aar",
+          "size": 2623786,
+          "sha512": "f6fd7a3484ae5b2eda43a3cc3b8ab8707496d6178cacd3087ae0d6a9ecb548799924b8d90f35e945c3bd39e27faf1021612bd5483bdc8f95e2c36e2f664f6e68",
+          "sha256": "9d5de30d869cce1c6febbeca3adcde40637d77e61fb0ae5060b35ccb3268e1d7",
+          "sha1": "a4a30dc6177fccf04ba20ae4057597e5105c0b62",
+          "md5": "cf23e3875455d25ca727147eefb7f00b"
         }
       ]
     },
@@ -89,8 +89,8 @@
       },
       "files": [
         {
-          "name": "android-2.2.0-sources.jar",
-          "url": "android-2.2.0-sources.jar",
+          "name": "android-2.2.1-sources.jar",
+          "url": "android-2.2.1-sources.jar",
           "size": 4615,
           "sha512": "5e64ac762ba98652b4ee99f5d0ad4b1516d8b07b7fa40d4a0b73900d9b31a7ea8de485fe4cb638f9440e5d9f9523cb9fac16809d5644f646db04a41681f8e084",
           "sha256": "faa22334bb080324155a8cafe3b09f037d3220a0eba6f08d6b0eab8245f6b01b",
