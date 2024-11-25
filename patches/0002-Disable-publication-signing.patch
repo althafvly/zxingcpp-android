@@ -1,17 +1,17 @@
-From 72a5050a985b3894662f5ef9ee520ddb1f570139 Mon Sep 17 00:00:00 2001
+From c2f74c5810aa5f88cd44c29449a53b68850b8472 Mon Sep 17 00:00:00 2001
 From: LuK1337 <priv.luk@gmail.com>
 Date: Thu, 30 May 2024 10:52:43 +0200
-Subject: [PATCH 2/3] Disable publication signing
+Subject: [PATCH 2/2] Disable publication signing
 
 ---
  wrappers/android/zxingcpp/build.gradle.kts | 7 -------
  1 file changed, 7 deletions(-)
 
 diff --git a/wrappers/android/zxingcpp/build.gradle.kts b/wrappers/android/zxingcpp/build.gradle.kts
-index 81a9d3de..80e26fc0 100644
+index 1f52ebb7..26e82cb8 100644
 --- a/wrappers/android/zxingcpp/build.gradle.kts
 +++ b/wrappers/android/zxingcpp/build.gradle.kts
-@@ -118,10 +118,3 @@ publishing {
+@@ -114,10 +114,3 @@ publishing {
          }
      }
  }
@@ -23,5 +23,5 @@ index 81a9d3de..80e26fc0 100644
 -    sign(publishing.publications)
 -}
 -- 
-2.45.2
+2.34.1
 
