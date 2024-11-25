@@ -44,7 +44,7 @@ allprojects {
 
 ```gradle
 dependencies {
-    implementation 'io.github.zxing-cpp:android:2.2.0'
+    implementation 'io.github.zxing-cpp:android:2.2.1'
 }
 ```
 
@@ -52,6 +52,6 @@ OR
 
 ```gradle
 dependencies {
-    implementation("io.github.zxing-cpp:android:2.2.0")
+    implementation("io.github.zxing-cpp:android:2.2.1")
 }
 ```

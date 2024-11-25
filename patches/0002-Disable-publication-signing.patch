@@ -1,7 +1,7 @@
-From 72a5050a985b3894662f5ef9ee520ddb1f570139 Mon Sep 17 00:00:00 2001
+From cccbb0d03ea11dbc255e1f1066c9338c193b591c Mon Sep 17 00:00:00 2001
 From: LuK1337 <priv.luk@gmail.com>
 Date: Thu, 30 May 2024 10:52:43 +0200
-Subject: [PATCH 2/3] Disable publication signing
+Subject: [PATCH 2/4] Disable publication signing
 
 ---
  wrappers/android/zxingcpp/build.gradle.kts | 7 -------
@@ -23,5 +23,5 @@ index 81a9d3de..80e26fc0 100644
 -    sign(publishing.publications)
 -}
 -- 
-2.45.2
+2.34.1
 

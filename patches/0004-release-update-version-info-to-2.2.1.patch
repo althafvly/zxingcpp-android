@@ -1,0 +1,25 @@
+From 69f3547060535bff94d9868b53c5ee9d9a47c061 Mon Sep 17 00:00:00 2001
+From: althafvly <althafvly@gmail.com>
+Date: Mon, 25 Nov 2024 19:28:21 +0530
+Subject: [PATCH 4/4] release: update version info to 2.2.1
+
+---
+ wrappers/android/zxingcpp/build.gradle.kts | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/wrappers/android/zxingcpp/build.gradle.kts b/wrappers/android/zxingcpp/build.gradle.kts
+index aa166b05..781b3831 100644
+--- a/wrappers/android/zxingcpp/build.gradle.kts
++++ b/wrappers/android/zxingcpp/build.gradle.kts
+@@ -52,7 +52,7 @@ dependencies {
+ }
+ 
+ group = "io.github.zxing-cpp"
+-version = "2.2.0"
++version = "2.2.1"
+ 
+ val javadocJar by tasks.registering(Jar::class) {
+     archiveClassifier.set("javadoc")
+-- 
+2.34.1
+

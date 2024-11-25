@@ -1,7 +1,7 @@
-From 57d9006d4892633a0991fbd0406946a4caad7e50 Mon Sep 17 00:00:00 2001
+From a02c407cd0d0e2a39a32841672e7996866047ded Mon Sep 17 00:00:00 2001
 From: axxel <awagger@gmail.com>
 Date: Tue, 5 Mar 2024 12:33:06 +0100
-Subject: [PATCH 3/3] Android: remove abiFilter to enable x86 and x86_64
+Subject: [PATCH 3/4] Android: remove abiFilter to enable x86 and x86_64
  support
 
 This superseeds #741 and fixes #736.
@@ -28,5 +28,5 @@ index 80e26fc0..aa166b05 100644
          externalNativeBuild {
              cmake {
 -- 
-2.45.2
+2.34.1
 
