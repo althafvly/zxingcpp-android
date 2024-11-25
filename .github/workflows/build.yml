@@ -17,7 +17,7 @@ jobs:
         git config --global user.name "github-actions[bot]"
 
     - name: Clone zxingcpp repo
-      run: git clone https://github.com/zxing-cpp/zxing-cpp --recursive -b v2.2.1
+      run: git clone https://github.com/zxing-cpp/zxing-cpp --recursive -b master
 
     - name: Apply patches
       working-directory: zxing-cpp
